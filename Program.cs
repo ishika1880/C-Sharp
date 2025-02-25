@@ -26,6 +26,7 @@ namespace ConsoleApp1
 
 
             Run.Execute();
+            Run2.run2();
         }
 
     }
